@@ -22,7 +22,7 @@ implementing more Task and Feature to make your candidature more solid.
 
 **Candidates must not use any 3rd party library. The assignment will not be evaluated if the 3rd party library is used**
 
-`PART 1 - ASSIGNMENT DETAILS`
+`PART 1 - Assignment Details`
 - Draw a graph which represents the performance of currencies over a period of time
 - The data to plot the graph can be found in `data.json` file in the Github repository
 `Github link : https://github.com/winsoft-technologies/2020-interns`
